@@ -1,0 +1,17 @@
+[{
+    "pergunta": "Como trocar um chuveiro?",
+    "resposta": "De forma geral, a troca envolve retirar o equipamento existente, verificar a compatibilidade do novo modelo com os pontos disponíveis, instalar conforme as instruções do fabricante e conferir o funcionamento. As etapas variam conforme o aparelho e a instalação do imóvel."
+  },
+  {
+    "pergunta": "Como trocar uma tomada?",
+    "resposta": "Em termos gerais, a substituição envolve remover o módulo existente, verificar a compatibilidade da peça nova com o ponto e a instalação, fazer as conexões conforme o diagrama do fabricante e fixar o módulo. O procedimento depende do padrão e das condições da instalação."
+  },
+  {
+    "pergunta": "Como trocar uma torneira?",
+    "resposta": "Em geral, a troca envolve remover a torneira existente, conferir o modelo e as conexões do ponto, instalar uma peça compatível e verificar o funcionamento e a vedação. Os detalhes variam conforme a torneira e a pia."
+  },
+  {
+    "pergunta": "Como desentupir uma pia?",
+    "resposta": "O procedimento depende do tipo e da localização da obstrução. Em casos simples, pode-se tentar desobstruir o ralo com um desentupidor manual e observar se o escoamento melhora. Se o problema persistir ou a água retornar, a causa pode estar na tubulação."
+  }
+]

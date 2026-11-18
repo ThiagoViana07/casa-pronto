@@ -1,0 +1,90 @@
+[
+  {
+    "pergunta": "O que é o Casa Pronto?",
+    "resposta": "O Casa Pronto é um sistema virtual que responde a dúvidas gerais sobre serviços domésticos e ajuda a entender etapas comuns desses serviços."
+  },
+  {
+    "pergunta": "Quais assuntos o Casa Pronto aborda?",
+    "resposta": "O Casa Pronto aborda pintura, alvenaria e acabamentos, instalações elétricas, hidráulica e limpeza doméstica."
+  },
+  {
+    "pergunta": "Como funciona o Casa Pronto?",
+    "resposta": "O usuário descreve uma dúvida ou problema doméstico e o sistema fornece uma orientação geral. As ferramentas MCP fazem a classificação do serviço e tratam análises específicas da solicitação."
+  },
+  {
+    "pergunta": "O Casa Pronto faz vistoria no imóvel?",
+    "resposta": "Não. As orientações são baseadas no que o usuário descreve e não substituem uma inspeção presencial."
+  },
+  {
+    "pergunta": "O Casa Pronto fornece orçamento definitivo?",
+    "resposta": "Não. O custo depende das condições do local, dos materiais e do trabalho necessário."
+  },
+  {
+    "pergunta": "Como pintar uma parede?",
+    "resposta": "Em geral, a parede é preparada para receber a tinta, as áreas próximas são protegidas e a tinta é aplicada em camadas, respeitando o tempo de secagem indicado pelo fabricante. O preparo varia conforme o estado da superfície e o produto escolhido."
+  },
+  {
+    "pergunta": "Como preparar uma parede antes de pintar?",
+    "resposta": "O preparo costuma incluir limpar a superfície, corrigir irregularidades e aguardar que ela esteja adequada para receber tinta. O procedimento depende do material e das condições da parede."
+  },
+  {
+    "pergunta": "Como trocar um chuveiro?",
+    "resposta": "De forma geral, a troca envolve retirar o equipamento existente, verificar a compatibilidade do novo modelo com os pontos disponíveis, instalar conforme as instruções do fabricante e conferir o funcionamento. As etapas variam conforme o aparelho e a instalação do imóvel."
+  },
+  {
+    "pergunta": "Como trocar uma tomada?",
+    "resposta": "Em termos gerais, a substituição envolve remover o módulo existente, verificar a compatibilidade da peça nova com o ponto e a instalação, fazer as conexões conforme o diagrama do fabricante e fixar o módulo. O procedimento depende do padrão e das condições da instalação."
+  },
+  {
+    "pergunta": "Como trocar uma torneira?",
+    "resposta": "Em geral, a troca envolve remover a torneira existente, conferir o modelo e as conexões do ponto, instalar uma peça compatível e verificar o funcionamento e a vedação. Os detalhes variam conforme a torneira e a pia."
+  },
+  {
+    "pergunta": "Como desentupir uma pia?",
+    "resposta": "O procedimento depende do tipo e da localização da obstrução. Em casos simples, pode-se tentar desobstruir o ralo com um desentupidor manual e observar se o escoamento melhora. Se o problema persistir ou a água retornar, a causa pode estar na tubulação."
+  },
+  {
+    "pergunta": "Como limpar um sofá?",
+    "resposta": "A limpeza depende do tecido e das instruções do fabricante. Em geral, identifica-se o material, remove-se a sujeira superficial e aplica-se um método compatível numa área pequena antes de limpar o restante."
+  },
+  {
+    "pergunta": "Como trocar o rejunte do banheiro?",
+    "resposta": "Em geral, remove-se o rejunte deteriorado, limpa-se o espaço entre as peças e aplica-se o produto novo conforme as instruções do fabricante. O acabamento e o tempo de secagem variam conforme o material escolhido."
+  },
+  {
+    "pergunta": "Como corrigir uma pequena descascada na parede?",
+    "resposta": "O processo costuma envolver retirar as partes soltas, limpar a superfície, corrigir irregularidades e aplicar tinta compatível depois do preparo. O resultado depende do estado da parede e da origem do descascamento."
+  },
+  {
+    "pergunta": "Como pintar um portão de metal?",
+    "resposta": "Normalmente, a superfície é limpa e preparada, aplica-se um produto de fundo compatível com metal e depois a tinta adequada, seguindo os intervalos de secagem indicados pelo fabricante."
+  },
+  {
+    "pergunta": "Como instalar um filtro de água?",
+    "resposta": "A instalação começa pela conferência do modelo e da compatibilidade com o ponto disponível. Depois, o filtro é conectado conforme o manual do fabricante e preparado para uso seguindo as instruções do produto."
+  },
+  {
+    "pergunta": "Como ajustar uma descarga que demora para parar de encher?",
+    "resposta": "O ajuste depende do modelo da caixa de descarga e do mecanismo instalado. Consulte o manual para identificar as regulagens de nível e vedação e observe se o funcionamento se normaliza após o ajuste."
+  },
+  {
+    "pergunta": "Como limpar um ralo de banheiro?",
+    "resposta": "A limpeza básica consiste em retirar os resíduos acumulados na grelha e ao redor da entrada e lavar a área. Se o escoamento continuar lento, pode haver uma obstrução mais profunda."
+  },
+  {
+    "pergunta": "Como instalar um rodapé?",
+    "resposta": "Em geral, mede-se o perímetro da parede, cortam-se as peças conforme os encontros e fixa-se o rodapé usando o método indicado para o material. O acabamento das juntas varia conforme o modelo."
+  },
+  {
+    "pergunta": "Como vedar uma janela que deixa entrar água?",
+    "resposta": "O processo costuma começar pela identificação das juntas por onde a água entra, limpeza e secagem da área e aplicação de um vedante compatível com a janela e a superfície. O produto deve ser aplicado conforme as instruções do fabricante."
+  },
+  {
+    "pergunta": "Como limpar a casa depois de uma reforma?",
+    "resposta": "Uma limpeza pós-reforma geralmente começa pela remoção da poeira das partes mais altas e segue para paredes, móveis e pisos. Os produtos e utensílios devem ser compatíveis com cada superfície."
+  },
+  {
+    "pergunta": "Como higienizar um colchão?",
+    "resposta": "A higienização depende do material do colchão e das instruções do fabricante. Em geral, remove-se a poeira superficial, trata-se a área necessária com produto compatível e aguarda-se a secagem completa antes de usar."
+  }
+]
